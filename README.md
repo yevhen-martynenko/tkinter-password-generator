@@ -66,8 +66,5 @@ python main.py
 5. Click "Generate" to create a new password based on your settings
 
 
-## License
-<!-- TODO add license -->
-
 ## Project status
 Development has concluded and is no longer ongoing.

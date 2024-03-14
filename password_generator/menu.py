@@ -89,7 +89,7 @@ class Menu(tk.Menu):
         # create a help menu
         help_menu = ttk.Menu(self, tearoff=False)
 
-        help_menu.add_command(label='LinkedIn', command=lambda: webbrowser.open_new(r"https://www.linkedin.com/in/yevhen-martynenko-9389062b5/"))
+        help_menu.add_command(label='LinkedIn', command=lambda: webbrowser.open_new(r"https://www.linkedin.com/in/yevhen-martynenko-v/"))
         help_menu.add_separator()
         help_menu.add_command(label='Github', command=lambda: webbrowser.open_new(r"https://github.com/yevhen-martynenko")) 
 
